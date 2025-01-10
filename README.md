@@ -1,4 +1,7 @@
 #This is a fullstack discord clone
+#Making some changes for 2nd commit
+#Changes for the 2nd commit
+#Changes for the 3rd commit
 
 # FullStack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL & TypeScript.
 
